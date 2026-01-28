@@ -1,7 +1,7 @@
 # Brainova.ai - Brain Tumor Classifier
 
 <div align="center">
-  ![Uploading Brainova.ai.png…]()
+  frontend/public/Brainova.ai.png
 
   
   [![GitHub](https://img.shields.io/badge/GitHub-oggigachad-181717?style=flat&logo=github)](https://github.com/oggigachad)
@@ -267,4 +267,5 @@ This project is for educational purposes. Please consult with medical profession
   
   **Brainova.ai - Think Smart**
 </div>
+
 
