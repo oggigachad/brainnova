@@ -1,7 +1,8 @@
 # Brainova.ai - Brain Tumor Classifier
 
 <div align="center">
-  <img src="frontend/public/logo.png" alt="Brainova.ai Logo" width="400"/>
+  ![Uploading Brainova.ai.png…]()
+
   
   [![GitHub](https://img.shields.io/badge/GitHub-oggigachad-181717?style=flat&logo=github)](https://github.com/oggigachad)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakash%20Sarang-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aakash-sarang-38b681263/)
@@ -266,3 +267,4 @@ This project is for educational purposes. Please consult with medical profession
   
   **Brainova.ai - Think Smart**
 </div>
+
