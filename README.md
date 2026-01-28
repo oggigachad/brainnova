@@ -1,7 +1,8 @@
 # Brainova.ai - Brain Tumor Classifier
 
 <div align="center">
-  <img width="2938" height="2463" alt="Brainova ai" src="https://github.com/user-attachments/assets/6653054b-1321-4d7d-8885-0404c79a8fb5" />
+  <img width="2938" height="2463" alt="Brainova ai (1)" src="https://github.com/user-attachments/assets/1d0aa149-9a4a-4d5c-9b93-addc33e4ccf9" />
+
 
 
   
@@ -268,6 +269,7 @@ This project is for educational purposes. Please consult with medical profession
   
   **Brainova.ai - Think Smart**
 </div>
+
 
 
 
